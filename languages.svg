@@ -134,22 +134,22 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #00ADD8; 
-  width: 51.562%;
+  width: 51.555%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 7.187%;
+  width: 7.186%;
 " class="progress-item"></span><span style="
   background-color: #7e7eff; 
-  width: 6.727%;
+  width: 6.726%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 6.569%;
+  width: 6.568%;
 " class="progress-item"></span><span style="
   background-color: #f7523f; 
-  width: 6.193%;
+  width: 6.192%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
-  width: 4.954%;
+  width: 4.953%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 2.704%;
@@ -164,10 +164,10 @@ div.ellipsis {
   width: 1.862%;
 " class="progress-item"></span><span style="
   background-color: #844FBA; 
-  width: 1.442%;
+  width: 1.454%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 1.060%;
+  width: 1.062%;
 " class="progress-item"></span><span style="
   background-color: #F4AA41; 
   width: 0.949%;
@@ -233,7 +233,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Go</span>
-  <span class="percent">51.56%</span>
+  <span class="percent">51.55%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -393,7 +393,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HCL</span>
-  <span class="percent">1.44%</span>
+  <span class="percent">1.45%</span>
 </li>
 <li style="animation-delay: 1800ms;">
   <svg 
@@ -521,7 +521,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Makefile</span>
-  <span class="percent">0.22%</span>
+  <span class="percent">0.21%</span>
 </li>
 <li style="animation-delay: 3000ms;">
   <svg 
